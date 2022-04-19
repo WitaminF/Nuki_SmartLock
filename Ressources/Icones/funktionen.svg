@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="47.787" height="48.12" viewBox="0 0 47.787 48.12">
+  <g id="funktionen" transform="translate(-240.583 -864.5)">
+    <circle id="Ellipse_22" data-name="Ellipse 22" cx="6.016" cy="6.016" r="6.016" transform="translate(251.466 889.563)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+    <circle id="Ellipse_23" data-name="Ellipse 23" cx="3.008" cy="3.008" r="3.008" transform="translate(275.529 871.516)" fill="none" stroke="#fecb3f" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Pfad_124" data-name="Pfad 124" d="M270.516,888.542a13.1,13.1,0,0,0-.293-2.725L273.378,884l-4.01-6.948-3.094,1.829a10.992,10.992,0,0,0-4.64-2.731V872.5h-8.021v3.645a11.554,11.554,0,0,0-4.782,2.731l-3.2-1.829L241.6,884l3.144,1.821a12.966,12.966,0,0,0-.293,2.725,13.1,13.1,0,0,0,.285,2.725l-3.154,1.823,4.008,6.948,3.238-1.831a11.56,11.56,0,0,0,4.782,2.735v3.641h8.021v-3.641a11.018,11.018,0,0,0,4.64-2.735l3.128,1.831,3.992-6.948-3.16-1.823A13.1,13.1,0,0,0,270.516,888.542Z" transform="translate(0 7.036)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Pfad_125" data-name="Pfad 125" d="M271.452,874.523a7.117,7.117,0,0,0-.2-1.624l1.993-1.151-2.005-3.473-1.925,1.153a7.229,7.229,0,0,0-2.739-1.63v-2.3h-4.01v2.3a7.709,7.709,0,0,0-2.88,1.626l-2.035-1.153-2.023,3.473,1.987,1.151a6.846,6.846,0,0,0-.006,3.248l-2,1.151,2.005,3.473,2.069-1.153a7.725,7.725,0,0,0,2.882,1.63v2.3h4.01v-2.3a7.2,7.2,0,0,0,2.741-1.63l1.959,1.153,1.987-3.473-2-1.151A7.1,7.1,0,0,0,271.452,874.523Z" transform="translate(14.103 0)" fill="none" stroke="#fecb3f" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>
